@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small python package for a movie recommender
+Author: Soham Pradhan
+Author-email: sohampradhan04@gmail.com
+Description-Content-Type: text/markdown
+
+Movie Recommender System
